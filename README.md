@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Ehtsham Ul Haq 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+MERN+Developer;React+%7C+Redux+%7C+Firebase;Open+Source+Contributor;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Redux+%7C+Firebase;Open+Source+Contributor;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,js,ts,html,css,nodejs,express,mongodb,firebase,graphql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux,js,ts,html,css,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
