@@ -1,151 +1,102 @@
-# Hey 👋 I'm Ehtsham Ul haq
+<!-- =========================
+      HEADER
+========================= -->
 
-<!-- ==========================
-     Animated header (inline SVG)
-     GitHub allows inline SVG in Markdown — this SVG contains simple animations
-     ========================== -->
-
-<svg width="100%" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hello header">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00d2ff" />
-      <stop offset="50%" stop-color="#3a7bd5" />
-      <stop offset="100%" stop-color="#6a11cb" />
-    </linearGradient>
-    <style>
-      .title { font: 900 36px 'Segoe UI', Roboto, sans-serif; fill: url(#g); }
-      .sub { font: 400 16px 'Segoe UI', Roboto, sans-serif; fill: #9aa5b1; }
-      .wave { transform-origin: 70px 45px; animation: wave 1.6s infinite; }
-      @keyframes wave { 0% { transform: rotate(0deg);} 15% { transform: rotate(14deg);} 30% { transform: rotate(-8deg);} 40% { transform: rotate(14deg);} 50% { transform: rotate(-4deg);} 60% { transform: rotate(10deg);} 100% { transform: rotate(0deg);} }
-    </style>
-  </defs>
-
-  <!-- Waving hand -->
-
-  <g transform="translate(20,20)">
-    <g class="wave">
-      <circle cx="70" cy="40" r="26" fill="#FFDE59" />
-      <path d="M60 40 q8 -16 20 -10 q6 6 2 18 q-6 12 -22 10 q-6 -4 -0 -18Z" fill="#FFB199" opacity="0.95"/>
-    </g>
-  </g>
-
-  <!-- Title -->
-
-<text x="130" y="56" class="title">Ehtsham Ul haq — Frontend & MERN Developer</text> <text x="130" y="86" class="sub">Building beautiful UIs, reliable APIs, and products that users love ✨</text> </svg>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3a7bd5&width=600&lines=Hey+👋+I'm+Ehtsham+Ul+Haq;Frontend+%26+MERN+Developer;Building+beautiful+UIs+%26+APIs" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🚀 Quick links
+<!-- =========================
+      ABOUT ME
+========================= -->
 
-* 🔭 Current: Building React + Vite apps, MERN features, auth & payments
-* 📫 How to reach me: **[GitHub Profile](https://github.com/EhtshamUlHaq)**
-* 🧾 Resume / Portfolio: *Add your portfolio link here*
+## 👨‍💻 About Me  
 
----
-
-## 🔥 Highlights (Animated badges)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EhtshamUlHaq\&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=EhtshamUlHaq\&show_icons=true\&count_private=true\&line_height=24)
-
-> Replace `EhtshamUlHaq` above with your GitHub username if it differs.
+- 🇵🇰 Based in **Pakistan**, studying BS Information Management  
+- 🚀 Currently building **React + Vite apps**, **MERN projects**, Auth & Payments  
+- 🎯 Goal: Ship polished, production-ready web apps and share knowledge  
+- 🛠 Tools: VSCode · Git · Postman · Figma · TailwindCSS · Redux  
 
 ---
 
-## ✨ About me
+<!-- =========================
+      STATS + LANGS
+========================= -->
 
-* 🇵🇰 Based in Pakistan — BS Information Management (studying)
-* 🧩 Focus: React, Vite, Node/Express, MongoDB, GraphQL, authentication (JWT, bcrypt)
-* 🛠 Tools: VSCode, Git, Postman, Figma, TailwindCSS, Redux
-* 🎯 Goal: Ship polished, production-ready web apps and teach what I learn
+## 📊 GitHub Stats  
 
----
-
-## 💻 What I build
-
-* User-friendly admin dashboards and e-commerce frontends
-* Scalable REST & GraphQL APIs with secure auth flows
-* Course platforms, social apps, and utility libraries
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EhtshamUlHaq&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhtshamUlHaq&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
-## 🔧 Animated tech stack (SVG carousel)
+<!-- =========================
+      TECH STACK (ANIMATED)
+========================= -->
 
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img">
-  <defs>
-    <style>
-      .card { font: 600 14px/18px 'Segoe UI', Roboto, sans-serif; }
-      .bubble { fill: #0b1220; opacity: 0.02; }
-      .tech { font-size: 13px; fill: #222; }
-      .pulse { transform-origin: center; animation: pulse 2s infinite; }
-      @keyframes pulse { 0% { transform: translateY(0);} 50% { transform: translateY(-6px);} 100% { transform: translateY(0);} }
-    </style>
-  </defs>
-  <g transform="translate(20,10)">
-    <rect x="0" y="0" rx="12" ry="12" width="160" height="90" fill="#ffffff" stroke="#e6eefb" />
-    <text x="18" y="34" class="tech pulse">React • Vite</text>
-    <text x="18" y="56" class="tech">Tailwind • SWC</text>
-  </g>
-  <g transform="translate(200,10)">
-    <rect x="0" y="0" rx="12" ry="12" width="160" height="90" fill="#ffffff" stroke="#fdecef" />
-    <text x="18" y="34" class="tech pulse">Node • Express</text>
-    <text x="18" y="56" class="tech">MongoDB • Mongoose</text>
-  </g>
-  <g transform="translate(380,10)">
-    <rect x="0" y="0" rx="12" ry="12" width="160" height="90" fill="#ffffff" stroke="#f0f8ff" />
-    <text x="18" y="34" class="tech pulse">GraphQL • Apollo</text>
-    <text x="18" y="56" class="tech">JWT • bcrypt</text>
-  </g>
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,mongodb,graphql,redux,git,figma" />
+</p>
+
+<!-- Animated pulse bubbles -->
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="40" r="6" fill="#3a7bd5">
+    <animate attributeName="r" values="6;12;6" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="90" cy="40" r="6" fill="#6a11cb">
+    <animate attributeName="r" values="6;12;6" dur="2s" begin="0.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="130" cy="40" r="6" fill="#00d2ff">
+    <animate attributeName="r" values="6;12;6" dur="2s" begin="0.8s" repeatCount="indefinite" />
+  </circle>
 </svg>
 
 ---
 
-## 🎯 Featured Projects
+<!-- =========================
+      FEATURED PROJECTS
+========================= -->
 
-* **MERN Course Platform** — Instructor uploads, user enrollment, progress tracking, Stripe integration.
-* **E-Commerce React App** — Redux Toolkit for cart and product flows, responsive UI.
-* **Library Management System** — Auth, role-based features, book upload and advanced search.
+## 🚀 Featured Projects  
 
-> Add short links to repos under each project when you publish this README.
+- 📚 **MERN Course Platform** — Instructor uploads, user enrollment, Stripe payments  
+- 🛒 **React E-Commerce** — Redux Toolkit cart, product flows, responsive UI  
+- 📖 **Library Management System** — Auth, role-based features, advanced search  
+
+👉 *[Check my repositories](https://github.com/EhtshamUlHaq?tab=repositories)*
 
 ---
 
-## 📈 GIF / Lottie Animation (How to add)
+<!-- =========================
+      CONNECT
+========================= -->
 
-If you want a richer animation (Lottie or GIF), upload the file to your repo (e.g. `/assets/hero.json` or `hero.gif`) and then embed:
+## 🌐 Connect with Me  
 
-```md
 <p align="center">
-  <img src="/assets/hero.gif" alt="hero animation" width="560" />
+  <a href="https://github.com/EhtshamUlHaq">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-3a7bd5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-```
-
-or use a hosted Lottie player GIF export.
 
 ---
 
-## 🛠 How to customize this README
+<!-- =========================
+      FOOTER ANIMATION
+========================= -->
 
-1. Replace the SVG header with your own text or colors.
-2. Change the `github-readme-stats` username images to your GitHub username.
-3. Add project links, blog posts, and portfolio links where labeled.
-4. To include a GitHub actions badge or dynamic content (like commits/week), use shields.io or GitHub Actions outputs.
-
----
-
-## 📎 Useful Links / Badges
-
-[![Website](https://img.shields.io/badge/website-portfolio-blue)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2)](YOUR_TWITTER_URL)
-
----
-
-## 🙏 Final notes
-
-* This README uses inline SVG for animations (supported on GitHub). If you prefer GIFs or an embedded Lottie, host the files in the repo and embed them as images.
-* Replace placeholder links, images and the `EhtshamUlHaq` username with your own values.
-
----
-
-<p align="center">Made with ❤️ — Customize and ship your polished GitHub profile!</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=6A11CB&center=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+awesome+✨" alt="Typing Footer" />
+</p>
